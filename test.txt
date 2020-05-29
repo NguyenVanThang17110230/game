@@ -1,5 +1,1 @@
-
-user1 test
-
-user2 test
-
+user1-test
